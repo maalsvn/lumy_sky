@@ -539,6 +539,10 @@ header, footer {
     .portfolio-item:hover {
         transform: scale(1.1);
     }
+    
+    .portfolio__button {
+        margin-top: 50px:
+    }
 }
 
 /* наши услуги */
